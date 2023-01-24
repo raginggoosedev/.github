@@ -10,4 +10,4 @@ We are a small group of students  at Western University developing games and pro
 
 ---
 ### Upcoming/Work In Progress Projects
-- [Untitled GLFW game](https://github.com/raginggoosedev/GAME_PROJECT "Untitled C++ OpenGL game") 
+- [Untitled C++ OpenGL game](https://github.com/raginggoosedev/GAME_PROJECT "Untitled C++ OpenGL game") 
