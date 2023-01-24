@@ -1,8 +1,6 @@
 # Raging Goose Development
-
 ### Who are we?
 
-------------
 
 We are a small group of students  at Western University developing games and programs.
 
