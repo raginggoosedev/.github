@@ -8,9 +8,10 @@ We are a motivated group of students studying Computer Science and Software Engi
 <br><br>
 We are:
 
-- Josh Muszka (<a href="https://github.com/apemanjosh67">apemanjosh67</a>)
+- Josh Muszka (<a href="https://github.com/jmuszka">jmuszka</a>)
 - Nicholas Woo (<a href="https://github.com/Knightlynick">Knightlynick</a>)
 - Michael Quick (<a href="https://github.com/ExplorerDonutz">ExplorerDonutz</a>)
+- Eunsung Kim (<a href="https://github.com/jerpyk">jerpyk</a>)
 
 In our spare time, we enjoy coding and playing video games together. As a result, when we met in the first semester of our first year we immediately got along well and became fast friends. Then in second semester, we decided to get together and form Raging Goose Development; a group where we could work together on things we are passionate for.<br><br>
 
