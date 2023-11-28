@@ -3,9 +3,10 @@
 
 ### Who are we?
 We are a motivated group of students studying Computer Science and Software Engineering at the University of Western Ontario, currently in our second year of studies.<br><br>
+<img src="https://cdn.discordapp.com/attachments/1048807952594763778/1178903871544885268/signal-2023-11-27-22-39-04-326.jpg?ex=6577d6c9&is=656561c9&hm=b1beddcdc5b12d814369890ec031c588c4902d0e5cd4d6eb8f0cd8b8f194e9ff&" height="300px" alt="Computer Science"/><br>
 <img src="https://www.uwo.ca/web_standards/img/logo/western-crest-facebook-og1.jpg" height="200px" alt="University of Western Ontario"/>
-<img src="https://images.ctfassets.net/2htm8llflwdx/1LEJIT9KGRC4nwTJ5vuS6H/a912e31c468fd32986f2818816135cc4/OnlineLearning_SouthAsia_Learning_Indoor_GettyImages-1071652068.jpg" height="200px" alt="Computer Science"/>
-<br><br>
+<!--<img src="https://images.ctfassets.net/2htm8llflwdx/1LEJIT9KGRC4nwTJ5vuS6H/a912e31c468fd32986f2818816135cc4/OnlineLearning_SouthAsia_Learning_Indoor_GettyImages-1071652068.jpg" height="200px" alt="Computer Science"/>-->
+
 We are:
 
 - Josh Muszka (<a href="https://github.com/jmuszka">jmuszka</a>)
